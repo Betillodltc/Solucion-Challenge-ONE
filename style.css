@@ -57,9 +57,9 @@ main{
     border-radius: 5px;
     color: #413e3e;
     cursor: pointer;
-    height: 67px;
-    width: 328px;
-    margin-left: 180px;
+    height: 60px;
+    width: 300px;
+    margin-left: 85px;
 }
 
 .btn-copiar {
@@ -69,8 +69,8 @@ main{
     cursor: pointer;
     font-size: 24px;
     height: 34px;
-    margin-left: 100px;
-    width: 250px;
+    margin-left: 60px;
+    width: 180px;
 }
 
 .btn-desencriptar {
@@ -79,9 +79,9 @@ main{
     border-radius: 5px;
     color: #413e3e;
     cursor: pointer;
-    height: 67px;
-    margin-left: 120px;
-    width: 328px;
+    height: 60px;
+    margin-left: 60px;
+    width: 300px;
 }
 
 .informacion {
@@ -90,13 +90,13 @@ main{
 }
 
 .informacion01 {
-    font-size: 18px;
+    font-size: 14px;
     margin-left: 50px;
     margin-top: 5px;
 }
 
 .informacion02 {
-    font-size: 18px;
+    font-size: 14px;
     margin-left: 500px;
     margin-top: 5px;
 }
